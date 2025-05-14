@@ -101,5 +101,3 @@ TSA_Claims_Analysis/
 🔗 [LinkedIn](https://www.linkedin.com/in/satkarkarki)  
 🔗 [GitHub](https://github.com/satkar605)
 
-## License
-MIT License — See the [LICENSE](LICENSE) file for more information.
